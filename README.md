@@ -13,9 +13,11 @@ A 3D space shooter game built using **Unity 2022.3 LTS**, where players navigate
 - **Scripting Language:** C#  
 
 # Gameplay
-![g2](https://github.com/user-attachments/assets/b479865d-7c81-4571-9073-5bf5c317754c)
-![g3](https://github.com/user-attachments/assets/b52d21f5-ef53-43eb-8291-21a49142bb43)
-![g4](https://github.com/user-attachments/assets/05ec108a-f3d3-4880-afb1-933902ae1197)
+![g2](https://github.com/user-attachments/assets/6802fab5-65fe-4259-b817-ab64aa7fc399)
+![g3](https://github.com/user-attachments/assets/60a7b4e6-b88e-49d3-b725-29b87b797079)
+![g4](https://github.com/user-attachments/assets/7099c3d7-7c05-44ee-8507-dc9fabafbdf0)
+
+
 
 # How to Use This Repository
 1. Clone the repository:
